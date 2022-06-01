@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MantineUi-react-ts/static/css/main.d3fe255c.css",
+    "main.js": "/MantineUi-react-ts/static/js/main.8fd784ca.js",
+    "index.html": "/MantineUi-react-ts/index.html",
+    "main.d3fe255c.css.map": "/MantineUi-react-ts/static/css/main.d3fe255c.css.map",
+    "main.8fd784ca.js.map": "/MantineUi-react-ts/static/js/main.8fd784ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3fe255c.css",
+    "static/js/main.8fd784ca.js"
+  ]
+}
